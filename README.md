@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lyc95
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning CS in SG
-- 💞️ I love LeeCode!
+- 💞️ LeeCode Lover!
 
 <!---
 lyc95/lyc95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
