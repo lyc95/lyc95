@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Youcheng
 - 🇸🇬 Based in Singapore
-- 🤖 Currently working as a Software Engineer in Robotics Perception
+- 🤖 Software Engineer in Robotics Perception (Autonomous Mobile Robots)
 - 💻 Former Embedded Software Engineer in the Automotive Industry
 - 🏗️ Former Civil & Structural Engineer
 - 🎓 Master’s student at Georgia Tech studying AI, Machine Learning, and Robotics
